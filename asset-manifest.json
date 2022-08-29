@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/css/main.7aacb640.css",
-    "main.js": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/main.a88b81ba.js",
+    "main.js": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/main.096f01e4.js",
     "static/css/2876.2ba43d98.chunk.css": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/css/2876.2ba43d98.chunk.css",
     "static/js/2876.d8c3d88b.chunk.js": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/2876.d8c3d88b.chunk.js",
     "static/js/3024.14383208.chunk.js": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/3024.14383208.chunk.js",
@@ -78,7 +78,7 @@
     "static/media/6.jpg": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/media/6.edefb235566ed72a7429.jpg",
     "index.html": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/index.html",
     "main.7aacb640.css.map": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/css/main.7aacb640.css.map",
-    "main.a88b81ba.js.map": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/main.a88b81ba.js.map",
+    "main.096f01e4.js.map": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/main.096f01e4.js.map",
     "2876.2ba43d98.chunk.css.map": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/css/2876.2ba43d98.chunk.css.map",
     "2876.d8c3d88b.chunk.js.map": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/2876.d8c3d88b.chunk.js.map",
     "3024.14383208.chunk.js.map": "/Sireen-Ibnu-Kabeer/trucks-of-india-admin-panel.git/static/js/3024.14383208.chunk.js.map",
@@ -145,6 +145,6 @@
   },
   "entrypoints": [
     "static/css/main.7aacb640.css",
-    "static/js/main.a88b81ba.js"
+    "static/js/main.096f01e4.js"
   ]
 }

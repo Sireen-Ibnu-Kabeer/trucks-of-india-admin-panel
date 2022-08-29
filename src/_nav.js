@@ -67,7 +67,7 @@ const _nav = [
     component: CNavGroup,
     name: 'Used Vehicles',
     to: '/base',
-    // icon: <CIcon icon={cilCarAlt} customClassName="nav-icon" />,
+    icon: <CIcon icon={cilCarAlt} customClassName="nav-icon" />,
     items: [
       {
         component: CNavItem,
@@ -156,19 +156,19 @@ const _nav = [
     component: CNavItem,
     name: 'News',
     to: '/news',
-    // icon: <CIcon icon={cibPlurk} customClassName="nav-icon" />,
+    icon: <CIcon icon={cibPlurk} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Ads',
     to: '/ads',
-    // icon: <CIcon icon={cibGoogleAds} customClassName="nav-icon" />,
+    icon: <CIcon icon={cibGoogleAds} customClassName="nav-icon" />,
   },
   {
     component: CNavItem,
     name: 'Blogs',
     to: '/blogs',
-    // icon: <CIcon icon={cibMicroBlog} customClassName="nav-icon" />,
+    icon: <CIcon icon={cibMicroBlog} customClassName="nav-icon" />,
   },
   // {
   //   component: CNavGroup,
